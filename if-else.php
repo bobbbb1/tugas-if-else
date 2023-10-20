@@ -1,5 +1,5 @@
 <?php
-$nilai = 75; // Ganti nilai ini sesuai kebutuhan
+$nilai = 75;
 
 if ($nilai >= 70) {
     echo "Anda lulus dengan nilai $nilai.";
